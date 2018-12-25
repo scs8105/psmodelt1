@@ -170,6 +170,7 @@
 "yacceleratorstorefront",
 "adaptivesearchbackoffice",
 "adaptivesearchsolr",
+	   "yb2bacceleratorstorefront",
 "mcc"
    ],
     "storefrontAddons": [
