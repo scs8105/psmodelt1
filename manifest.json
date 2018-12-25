@@ -9,6 +9,9 @@
        "basecommercebackoffice",       
        "yacceleratorfulfilmentprocess",
        "solrfacetsearchbackoffice",
+      "pcmbackoffice",
+       "pcmbackofficesamplesaddon",
+       "addonsupport",
        "commerceservicesbackoffice"
    ],
    "storeFrontExtension": "yacceleratorstorefront",
