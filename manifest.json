@@ -1,61 +1,61 @@
 {
-   “commerceSuiteVersion”: “1808",
-   “extensions”: [
-       “modeltacceleratorservices”,
-       “electronicsstore”,
-       “yacceleratorstorefront”,
-       “backoffice”
+   "commerceSuiteVersion": "1808",
+   "extensions": [
+       "modeltacceleratorservices",
+       "electronicsstore",
+       "yacceleratorstorefront",
+       "backoffice"
    ],
-        “aspects”: [
+        "aspects": [
        {
-           “name”: “backoffice”,
-           “webapps”: [
+           "name": "backoffice",
+           "webapps": [
                {
-                   “name”: “hac”,
-                   “contextPath”: “/hac”
+                   "name": "hac",
+                   "contextPath": "/hac"
                },
                {
-                   “name”: “mediaweb”,
-                   “contextPath”: “/medias”
+                   "name": "mediaweb",
+                   "contextPath": "/medias"
                },
                {
-                   “name”: “backoffice”,
-                   “contextPath”: “”
+                   "name": "backoffice",
+                   "contextPath": ""
                }
            ]
        },
        {
-           “name”: “accstorefront”,
-           “properties”: [{
-               “key”: “yacceleratorstorefront.webroot”,
-               “value”: “”
+           "name": "accstorefront",
+           "properties": [{
+               "key": "yacceleratorstorefront.webroot",
+               "value": ""
            }],
-           “webapps”: [
+           "webapps": [
                {
-                   “name”: “mediaweb”,
-                   “contextPath”: “/medias”
+                   "name": "mediaweb",
+                   "contextPath": "/medias"
                },
                {
-                   “name”: “yacceleratorstorefront”,
-                   “contextPath”: “”
+                   "name": "yacceleratorstorefront",
+                   "contextPath": ""
                },
                {
-                   “name”: “acceleratorservices”,
-                   “contextPath”: “/acceleratorservices”
+                   "name": "acceleratorservices",
+                   "contextPath": "/acceleratorservices"
                }
            ]
        },
        {
-           “name”: “backgroundProcessing”,
-           “properties”: [],
-           “webapps”: [
+           "name": "backgroundProcessing",
+           "properties": [],
+           "webapps": [
                {
-                   “name”: “hac”,
-                   “contextPath”: “”
+                   "name": "hac",
+                   "contextPath": ""
                },
                {
-                   “name”: “mediaweb”,
-                   “contextPath”: “/medias”
+                   "name": "mediaweb",
+                   "contextPath": "/medias"
                }
            ]
        }
