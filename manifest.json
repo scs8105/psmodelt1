@@ -1,5 +1,5 @@
 {
-  "commerceSuiteArtifact": "de.hybris.maintenance:patch-RC:1811-20190508.134540-161",
+  "commerceSuiteVersion": "1811",
   "extensions": [
     "acceleratorwebservicesaddon",
     "adaptivesearchbackoffice",
